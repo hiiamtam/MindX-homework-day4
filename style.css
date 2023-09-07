@@ -1,0 +1,356 @@
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header {
+    position: sticky;
+    max-height: 60px;
+    background-color: #131921;
+    text-transform: uppercase;
+    text-align: center;
+}   
+
+.task {
+    min-height: 60px;
+    margin: 0 auto;
+}
+
+.main-menu {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    justify-items: center;
+}
+
+
+.main-menu li a {
+    color: #f8f8f8;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 30px;
+    width: 339.5px;
+}
+
+.main-menu li a:hover {
+    box-shadow: 0 0 17px 2px white;
+}
+
+.title {
+    text-align: center;
+    font-size: 32px;
+}
+
+#vinfast {
+    position: relative;
+    max-width: 100vw;
+    min-height: 300px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.box-vinfast { 
+    position: absolute;
+    border: 2px solid #f8f8f8;
+    background-color: #131921;
+    width: 90vw;
+    height: 400px;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    border-radius: 10px;
+    display: inline-flex;
+}
+
+.box-vinfast-inside1 {
+    position: inherit;
+    width: 300px;
+    height: 340px;
+    margin: 30px 40px;
+    border: 2px solid #f8f8f8;
+    background-color: pink;
+    display: block;
+}
+
+.box-vinfast-inside2 {
+    position: inherit;
+    width: 300px;
+    height: 340px;
+    margin: 30px 40px;
+    border: 2px solid #f8f8f8;
+    background-color: pink;
+    display: block;
+    margin-left: 36.7vw;
+    margin-right: 35vw;
+}
+
+.box-vinfast-inside3 {
+    position: inherit;
+    width: 300px;
+    height: 340px;
+    margin: 30px 40px;
+    border: 2px solid #f8f8f8;
+    background-color: pink;
+    display: block;
+    right: 30px;
+}
+
+#lexus {
+    position: relative;
+    max-width: 100vw;
+    min-height: 300px;
+    margin-top: 200px;
+    margin-bottom: 30px;
+}
+
+.box-lexus { 
+    position: absolute;
+    border: 2px solid #f8f8f8;
+    background-color: #131921;
+    width: 90vw;
+    height: 400px;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    border-radius: 10px;
+    display: inline-flex;
+}
+
+.box-lexus-inside1 {
+    position: inherit;
+    width: 300px;
+    height: 340px;
+    margin: 30px 40px;
+    border: 2px solid #f8f8f8;
+    background-color: aqua;
+    display: block;
+}
+
+.box-lexus-inside2 {
+    position: inherit;
+    width: 300px;
+    height: 340px;
+    margin: 30px 40px;
+    border: 2px solid #f8f8f8;
+    background-color: aqua;
+    display: block;
+    margin-left: 36.7vw;
+    margin-right: 35vw;
+}
+
+.box-lexus-inside3 {
+    position: inherit;
+    width: 300px;
+    height: 340px;
+    margin: 30px 40px;
+    border: 2px solid #f8f8f8;
+    background-color: aqua;
+    display: block;
+    right: 30px;
+}
+
+#mercedes {
+    position: relative;
+    max-width: 100vw;
+    min-height: 300px;
+    margin-top: 200px;
+    margin-bottom: 30px;
+}
+
+.box-mercedes { 
+    position: absolute;
+    border: 2px solid #f8f8f8;
+    background-color: #131921;
+    width: 90vw;
+    height: 400px;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    border-radius: 10px;
+    display: inline-flex;
+}
+
+.box-mercedes-inside1 {
+    position: inherit;
+    width: 300px;
+    height: 340px;
+    margin: 30px 40px;
+    border: 2px solid #f8f8f8;
+    background-color: aquamarine;
+    display: block;
+}
+
+.box-mercedes-inside2 {
+    position: inherit;
+    width: 300px;
+    height: 340px;
+    margin: 30px 40px;
+    border: 2px solid #f8f8f8;
+    background-color: aquamarine;
+    display: block;
+    margin-left: 36.7vw;
+    margin-right: 35vw;
+}
+
+.box-mercedes-inside3 {
+    position: inherit;
+    width: 300px;
+    height: 340px;
+    margin: 30px 40px;
+    border: 2px solid #f8f8f8;
+    background-color: aquamarine;
+    display: block;
+    right: 30px;
+}
+
+#tesla {
+    position: relative;
+    max-width: 100vw;
+    min-height: 300px;
+    margin-top: 200px;
+    margin-bottom: 30px;
+}
+
+.box-tesla { 
+    position: absolute;
+    border: 2px solid #f8f8f8;
+    background-color: #131921;
+    width: 90vw;
+    height: 400px;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    border-radius: 10px;
+    display: inline-flex;
+    margin-bottom: 40px;
+}
+
+.box-tesla-inside1 {
+    position: inherit;
+    width: 300px;
+    height: 340px;
+    margin: 30px 40px;
+    border: 2px solid #f8f8f8;
+    background-color: greenyellow;
+    display: block;
+}
+
+.box-tesla-inside2 {
+    position: inherit;
+    width: 300px;
+    height: 340px;
+    margin: 30px 40px;
+    border: 2px solid #f8f8f8;
+    background-color: greenyellow;
+    display: block;
+    margin-left: 36.7vw;
+    margin-right: 35vw;
+}
+
+.box-tesla-inside3 {
+    position: inherit;
+    width: 300px;
+    height: 340px;
+    margin: 30px 40px;
+    border: 2px solid #f8f8f8;
+    background-color: greenyellow;
+    display: block;
+    right: 30px;
+}
+/* inside1 */
+.box-lexus-inside1:hover {
+    box-shadow: 0 0 17px 2px red;
+}
+
+.box-vinfast-inside1:hover {
+    box-shadow: 0 0 17px 2px red;
+}
+
+.box-tesla-inside1:hover {
+    box-shadow: 0 0 17px 2px red;
+}
+
+.box-mercedes-inside1:hover {
+    box-shadow: 0 0 17px 2px red;
+}
+/* inside2 */
+.box-lexus-inside2:hover {
+    box-shadow: 0 0 17px 2px red;
+}
+
+.box-vinfast-inside2:hover {
+    box-shadow: 0 0 17px 2px red;
+}
+
+.box-tesla-inside2:hover {
+    box-shadow: 0 0 17px 2px red;
+}
+
+.box-mercedes-inside3:hover {
+    box-shadow: 0 0 17px 2px red;
+}
+/* inside3 */
+.box-lexus-inside3:hover {
+    box-shadow: 0 0 17px 2px red;
+}
+
+.box-vinfast-inside3:hover {
+    box-shadow: 0 0 17px 2px red;
+}
+
+.box-tesla-inside3:hover {
+    box-shadow: 0 0 17px 2px red;
+}
+
+.box-mercedes-inside3:hover {
+    box-shadow: 0 0 17px 2px red;
+}
+
+#btt {
+    position: fixed;
+    bottom: 10px;
+    float: right;
+    right: 30px;
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    border-color: black;
+    background-color: white;
+    padding: 5px;
+    border-radius: 50%;
+    text-align: center;
+    justify-items: center;
+}
+  
+#btt:hover {
+    background-color: whitesmoke; 
+}
+
+#mer-img {
+    width: 50px;
+    height: 50px;
+    padding: auto;
+}
+
+#tesla-img {
+    width: 50px;
+    height: 50px;
+    padding: auto;
+}
+
+#lexus-img {
+    width: 50px;
+    height: 50px;
+    padding: auto;
+}
+
+#vinfast-img {
+    width: 50px;
+    height: 50px;
+    padding: auto;
+}
+
