@@ -38,6 +38,7 @@ html {
     text-decoration: none;
     font-size: 30px;
     width: 339.5px;
+    transition: .5s;
 }
 
 .main-menu li a:hover {
@@ -78,6 +79,7 @@ html {
     background-color: grey;
     display: block;
     justify-items: center;
+    transition: .25s;
 }
 
 .box-vinfast-inside2 {
@@ -90,6 +92,7 @@ html {
     display: block;
     margin-left: 36.7vw;
     margin-right: 35vw;
+    transition: .25s;
 }
 
 .box-vinfast-inside3 {
@@ -101,6 +104,7 @@ html {
     background-color: grey;
     display: block;
     right: 30px;
+    transition: .25s;
 }
 
 #lexus {
@@ -131,6 +135,7 @@ html {
     border: 2px solid #f8f8f8;
     background-color: grey;
     display: block;
+    transition: .25s;
 }
 
 .box-lexus-inside2 {
@@ -143,6 +148,7 @@ html {
     display: block;
     margin-left: 36.7vw;
     margin-right: 35vw;
+    transition: .25s;
 }
 
 .box-lexus-inside3 {
@@ -154,6 +160,7 @@ html {
     background-color: grey;
     display: block;
     right: 30px;
+    transition: .25s;
 }
 
 #mercedes {
@@ -184,6 +191,7 @@ html {
     border: 2px solid #f8f8f8;
     background-color: grey;
     display: block;
+    transition: .25s;
 }
 
 .box-mercedes-inside2 {
@@ -196,6 +204,7 @@ html {
     display: block;
     margin-left: 36.7vw;
     margin-right: 35vw;
+    transition: .25s;
 }
 
 .box-mercedes-inside3 {
@@ -207,6 +216,7 @@ html {
     background-color: grey;
     display: block;
     right: 30px;
+    transition: .25s;
 }
 
 #tesla {
@@ -238,6 +248,7 @@ html {
     border: 2px solid #f8f8f8;
     background-color: grey;
     display: block;
+    transition: .25s;
 }
 
 .box-tesla-inside2 {
@@ -250,6 +261,7 @@ html {
     display: block;
     margin-left: 36.7vw;
     margin-right: 35vw;
+    transition: .25s;
 }
 
 .box-tesla-inside3 {
@@ -261,6 +273,7 @@ html {
     background-color: grey;
     display: block;
     right: 30px;
+    transition: .25s;
 }
 /* inside1 */
 .box-lexus-inside1:hover {
