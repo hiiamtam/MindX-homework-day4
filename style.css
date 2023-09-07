@@ -75,8 +75,9 @@ html {
     height: 340px;
     margin: 30px 40px;
     border: 2px solid #f8f8f8;
-    background-color: pink;
+    background-color: grey;
     display: block;
+    justify-items: center;
 }
 
 .box-vinfast-inside2 {
@@ -85,7 +86,7 @@ html {
     height: 340px;
     margin: 30px 40px;
     border: 2px solid #f8f8f8;
-    background-color: pink;
+    background-color: grey;
     display: block;
     margin-left: 36.7vw;
     margin-right: 35vw;
@@ -97,7 +98,7 @@ html {
     height: 340px;
     margin: 30px 40px;
     border: 2px solid #f8f8f8;
-    background-color: pink;
+    background-color: grey;
     display: block;
     right: 30px;
 }
@@ -128,7 +129,7 @@ html {
     height: 340px;
     margin: 30px 40px;
     border: 2px solid #f8f8f8;
-    background-color: aqua;
+    background-color: grey;
     display: block;
 }
 
@@ -138,7 +139,7 @@ html {
     height: 340px;
     margin: 30px 40px;
     border: 2px solid #f8f8f8;
-    background-color: aqua;
+    background-color: grey;
     display: block;
     margin-left: 36.7vw;
     margin-right: 35vw;
@@ -150,7 +151,7 @@ html {
     height: 340px;
     margin: 30px 40px;
     border: 2px solid #f8f8f8;
-    background-color: aqua;
+    background-color: grey;
     display: block;
     right: 30px;
 }
@@ -181,7 +182,7 @@ html {
     height: 340px;
     margin: 30px 40px;
     border: 2px solid #f8f8f8;
-    background-color: aquamarine;
+    background-color: grey;
     display: block;
 }
 
@@ -191,7 +192,7 @@ html {
     height: 340px;
     margin: 30px 40px;
     border: 2px solid #f8f8f8;
-    background-color: aquamarine;
+    background-color: grey;
     display: block;
     margin-left: 36.7vw;
     margin-right: 35vw;
@@ -203,7 +204,7 @@ html {
     height: 340px;
     margin: 30px 40px;
     border: 2px solid #f8f8f8;
-    background-color: aquamarine;
+    background-color: grey;
     display: block;
     right: 30px;
 }
@@ -235,7 +236,7 @@ html {
     height: 340px;
     margin: 30px 40px;
     border: 2px solid #f8f8f8;
-    background-color: greenyellow;
+    background-color: grey;
     display: block;
 }
 
@@ -245,7 +246,7 @@ html {
     height: 340px;
     margin: 30px 40px;
     border: 2px solid #f8f8f8;
-    background-color: greenyellow;
+    background-color: grey;
     display: block;
     margin-left: 36.7vw;
     margin-right: 35vw;
@@ -257,7 +258,7 @@ html {
     height: 340px;
     margin: 30px 40px;
     border: 2px solid #f8f8f8;
-    background-color: greenyellow;
+    background-color: grey;
     display: block;
     right: 30px;
 }
@@ -353,4 +354,174 @@ html {
     height: 50px;
     padding: auto;
 }
+
+.VF8 {
+    width: 250px;
+    height: 290px;
+    padding: 25px 25px;
+    text-align: center;
+}
+
+#vf8 {
+    width: 250px;
+    min-height: 250px;
+    border: 2px solid #f8f8f8;
+}
+
+.prd-name {
+    display: inline-block;
+    font-size: 28px;
+    margin-left: 30px;
+    color: #f8f8f8;
+    text-decoration: none;
+}
+
+.Lux {
+    width: 250px;
+    height: 290px;
+    padding: 25px 25px;
+    text-align: center;
+}
+
+#lux {
+    width: 250px;
+    min-height: 250px;
+    border: 2px solid #f8f8f8;
+}
+
+.VF9 {
+    width: 250px;
+    height: 290px;
+    padding: 25px 25px;
+    text-align: center;
+}
+
+#vf9 {
+    width: 250px;
+    min-height: 250px;
+    border: 2px solid #f8f8f8;
+}
+
+.LX600 {
+    width: 250px;
+    height: 290px;
+    padding: 25px 25px;
+    text-align: center;
+}
+
+#lx600 {
+    width: 250px;
+    min-height: 250px;
+    border: 2px solid #f8f8f8;
+}
+
+.RX350 {
+    width: 250px;
+    height: 290px;
+    padding: 25px 25px;
+    text-align: center;
+}
+
+#rx350 {
+    width: 250px;
+    min-height: 250px;
+    border: 2px solid #f8f8f8;
+}
+
+.GX460 {
+    width: 250px;
+    height: 290px;
+    padding: 25px 25px;
+    text-align: center;
+}
+
+#gx460 {
+    width: 250px;
+    min-height: 250px;
+    border: 2px solid #f8f8f8;
+}
+
+.GLC {
+    width: 250px;
+    height: 290px;
+    padding: 25px 25px;
+    text-align: center;
+}
+
+#glc {
+    width: 250px;
+    min-height: 250px;
+    border: 2px solid #f8f8f8;
+}
+
+.G63 {
+    width: 250px;
+    height: 290px;
+    padding: 25px 25px;
+    text-align: center;
+}
+
+#g63 {
+    width: 250px;
+    min-height: 250px;
+    border: 2px solid #f8f8f8;
+}
+
+.GT63 {
+    width: 250px;
+    height: 290px;
+    padding: 25px 25px;
+    text-align: center;
+}
+
+#gt63 {
+    width: 250px;
+    height: 250px;
+    border: 2px solid #f8f8f8;
+}
+
+.MS {
+    width: 250px;
+    height: 290px;
+    padding: 25px 25px;
+    text-align: center;
+}
+
+#ms {
+    width: 250px;
+    height: 250px;
+    border: 2px solid #f8f8f8;
+}
+
+.M3 {
+    width: 250px;
+    height: 290px;
+    padding: 25px 25px;
+    text-align: center;
+}
+
+#m3 {
+    width: 250px;
+    height: 250px;
+    border: 2px solid #f8f8f8;
+}
+
+.MX {
+    width: 250px;
+    height: 290px;
+    padding: 25px 25px;
+    text-align: center;
+}
+
+#mx {
+    width: 250px;
+    height: 250px;
+    border: 2px solid #f8f8f8;
+}
+
+
+
+
+
+
 
