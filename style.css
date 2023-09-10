@@ -90,8 +90,7 @@ html {
     border: 2px solid #f8f8f8;
     background-color: grey;
     display: block;
-    margin-left: 36.7vw;
-    margin-right: 35vw;
+    left: 35%;
     transition: .25s;
 }
 
@@ -146,8 +145,7 @@ html {
     border: 2px solid #f8f8f8;
     background-color: grey;
     display: block;
-    margin-left: 36.7vw;
-    margin-right: 35vw;
+    left: 35%;
     transition: .25s;
 }
 
@@ -202,8 +200,7 @@ html {
     border: 2px solid #f8f8f8;
     background-color: grey;
     display: block;
-    margin-left: 36.7vw;
-    margin-right: 35vw;
+    left: 35%;
     transition: .25s;
 }
 
@@ -259,8 +256,7 @@ html {
     border: 2px solid #f8f8f8;
     background-color: grey;
     display: block;
-    margin-left: 36.7vw;
-    margin-right: 35vw;
+    left: 35%;
     transition: .25s;
 }
 
