@@ -68,6 +68,7 @@ html {
     margin-right: 5vw;
     border-radius: 10px;
     display: inline-flex;
+    justify-content: space-between;
 }
 
 .box-vinfast-inside1 {
@@ -90,7 +91,7 @@ html {
     border: 2px solid #f8f8f8;
     background-color: grey;
     display: block;
-    left: 35%;
+    left: 39%;
     transition: .25s;
 }
 
@@ -145,7 +146,7 @@ html {
     border: 2px solid #f8f8f8;
     background-color: grey;
     display: block;
-    left: 35%;
+    left: 39%;
     transition: .25s;
 }
 
@@ -200,7 +201,7 @@ html {
     border: 2px solid #f8f8f8;
     background-color: grey;
     display: block;
-    left: 35%;
+    left: 39%;
     transition: .25s;
 }
 
@@ -256,7 +257,7 @@ html {
     border: 2px solid #f8f8f8;
     background-color: grey;
     display: block;
-    left: 35%;
+    left: 39%;
     transition: .25s;
 }
 
@@ -528,6 +529,26 @@ html {
     border: 2px solid #f8f8f8;
 }
 
+@media (max-width: 1440px) {
+    *{
+        width: 100%;
+    }
+    .box-lexus-inside2 {
+        left: 35%;
+    }
+
+    .box-vinfast-inside2 {
+        left: 35%;
+    }
+
+    .box-mercedes-inside2 {
+        left: 35%;
+    }
+
+    .box-tesla-inside2 {
+        left: 35%;
+    }
+}
 
 
 
