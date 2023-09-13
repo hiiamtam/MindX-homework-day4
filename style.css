@@ -548,6 +548,17 @@ html {
     .box-tesla-inside2 {
         left: 35%;
     }
+<<<<<<< HEAD
+=======
+
+    .prd-name {
+            display: inline-block;
+            font-size: 28px;
+            margin-left: 12px;
+            color: #f8f8f8;
+            text-decoration: none;
+    }        
+>>>>>>> 67ef2a2 (fix)
 }
 
 
@@ -555,3 +566,8 @@ html {
 
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 67ef2a2 (fix)
